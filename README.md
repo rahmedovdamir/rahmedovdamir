@@ -9,5 +9,5 @@ I'm **Backend Developer**  and CS student
 
 <br>
 
-**Reach me:** [Telegram](https://t.me/rzlawliet) · [Email](mailto:rahmedov.tech@mail.ru) · [Website/Resume](https://rahmedovdamir.ru/resume.pdf)
+**Reach me:** [Telegram](https://t.me/rzlawliet) · [Email](mailto:rahmedov.tech@mail.ru) · [Resume](https://rahmedovdamir.ru/resume.pdf)
 
