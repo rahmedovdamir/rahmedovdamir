@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**rahmedovdamir/rahmedovdamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Backend Developer** ⚙️ and CS student
 
-Here are some ideas to get you started:
+Studying at [MIREA](https://www.mirea.ru/), Computer Science & Engineering track;
+Building pet-projects with microservice architecture;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Stack: **Java**, **Spring**, **Hibernate**, **Apache Kafka**, **gRPC**
+-  Databases: `PostgreSQL`, `Redis`
+-  DevOps: `Docker`,`Nginx`
+- `ping` me about backend, Java, Spring, system design
+
+<br>
+
+**Reach me:** [Telegram](https://t.me/rzlawliet) · [Email](mailto:rahmedov.tech@mail.ru) · [Website/Resume](https://rahmedovdamir.ru/resume.pdf)
+
