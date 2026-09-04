@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-I'm **Backend Developer** ⚙️ and CS student
-
-Studying at [MIREA](https://www.mirea.ru/), Computer Science & Engineering track;
-Building pet-projects with microservice architecture;
+I'm **Backend Developer**  and CS student
 
 - Stack: **Java**, **Spring**, **Hibernate**, **Apache Kafka**, **gRPC**
 -  Databases: `PostgreSQL`, `Redis`
